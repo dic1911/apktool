@@ -1,0 +1,8 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/setting" android:title="設定"></item><item android:id="@+id/about" android:title="關於"></item>
+        <item android:id="@+id/handbook" android:title="使用說明"></item><item android:id="@+id/refresh" android:title="重新整理"></item><item android:id="@+id/exit" android:title="退出"></item>
+        
+        
+        
+    </menu>

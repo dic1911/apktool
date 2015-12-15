@@ -1,0 +1,101 @@
+
+    <resources>
+        <string name="app_name">Apktool</string>
+        <color name="textcolor">#f905f5</color>
+        <string-array name="dec_array">
+            <item >反編譯全部</item>
+            <item >反編譯dex</item>
+            <item >反編譯資源</item>
+            <item >簽名</item>
+            <item >產生odex</item>
+            <item >zipalign</item>
+            <item >安裝</item>
+            <item >刪除dex</item>
+            <item >抽出(META-INF)</item><item >删除签名(META-INF)</item>
+            <item >添加簽名(META-INF)</item>
+            
+            <item >作為framework匯入</item><item >返回</item>
+            
+        </string-array>
+        <string-array name="comp_array">
+            <item >編譯</item>
+            <item >瀏覽</item><item >返回</item>
+            
+            
+        </string-array>
+        <string-array name="deodex_array">
+            <item >反編譯</item>
+            <item >返回</item>
+        </string-array>
+        <string-array name="decdex_array">
+            <item >反編譯</item>
+            <item >加入同名apk檔案</item><item >打包进同名jar文件</item>
+            <item >返回</item>
+            
+        </string-array>
+        <style name="AppTheme" parent="@style/AppBaseTheme"></style>
+        <string-array name="longpress_array">
+            <item >重新命名</item>
+            <item >刪除</item>
+            <item >獲得目錄權限(root)</item><item >返回</item>
+            
+        </string-array>
+        <string-array name="unpackimg">
+            <item >拆包(mt65xx)</item>
+            <item >拆包(通用)</item>
+            <item >返回</item>
+        </string-array>
+        <string-array name="repackimg">
+            <item >打包(mt65xx)</item>
+            <item >打包(通用)</item>
+            <item >瀏覽</item>
+            <item >返回</item>
+        </string-array>
+        <string name="op_done">操作完成！</string>
+        <string name="cost_time">本次作業費時：</string>
+        <string name="hour">時</string>
+        <string name="minute">分</string>
+        <string name="second">秒</string>
+        <string name="ok">確定</string>
+        <string name="copy">複製</string>
+        <string name="decompile_all_finish">反編譯完成！</string>
+        <string name="sign_finish">簽名完成！</string>
+        <string name="recompile_finish">重編譯完成！</string>
+        <string name="decompile_dex_finish">反編譯dex完成！</string>
+        <string name="decompile_res_finish">反編譯資源完成！</string>
+        <string name="decompile_odex_finish">反編譯odex完成！</string>
+        <string name="import_finish">安裝完成！</string>
+        <string name="align_finish">zipalign完成！</string>
+        <string name="delete_finish">刪除完成！</string>
+        <string name="add_finish">添加完成！</string>
+        <string name="put_background">背景作業</string>
+        <string name="decompiling">正在反編譯...</string>
+        <string name="signing">正在簽名...</string>
+        <string name="making_odex">正在生成...</string>
+        <string name="aligning">正在zipalign...</string>
+        <string name="deleting">正在刪除</string>
+        <string name="extracting">正在解壓...</string>
+        <string name="dir_exist">目前目錄已存在META-INF資料夾，請先刪除.</string>
+        <string name="adding">正在加入...</string>
+        <string name="dir_not_exist">目前目錄不存在META-INF資料夾！</string>
+        <string name="importing_framework">正在安裝framework...</string>
+        <string name="recompiling">正在編譯...</string>
+        <string name="apk_not_exist">不存在同名apk檔案！</string>
+        <string name="jar_not_exist">不存在同名jar檔案！</string>
+        <string name="new_name">新名稱</string>
+        <string name="cancel">取消</string>
+        <string name="want_to_delete">刪除？</string>
+        <string name="compressing">正在打包...</string>
+        <string name="never_remind">不再提醒</string>
+        <string name="declaration">作者聲明</string>
+        <string name="current_path">目前路徑</string>
+        <string name="want_to_exit">退出？</string>
+        <string name="yes">是</string>
+        <string name="no">否</string>
+        <string name="about">關於程式</string>
+        <string name="vibration">作業完成時震動</string>
+        <string name="setting">偏好設定</string>
+        <string name="notify">操作完成時顯示通知</string>
+        <string name="white_background">白色背景</string>
+        <string name="keep_screen_on">螢幕保持開啟</string>
+    </resources>
